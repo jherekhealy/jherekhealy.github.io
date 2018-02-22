@@ -33,5 +33,14 @@ books present models in an abstract manner, often disconnected from how to apply
 those in the real world. This book is different and explains all the details needed for an implementation of the models, at the cost of being relatively succint on the mathematical origins of the various models considered.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Erratum</title>
+      <link>https://jherekhealy.github.io/erratum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jherekhealy.github.io/erratum/</guid>
+      <description>This document reflects errors that were found in the first edition of the book Applied Quantitative Finance for Equity Derivatives sold on Amazon (US, UK, France, Germany). If you find an error that is not listed here, please send me a note at jherekhealy @ protonmail.com. Special thanks to the readers that reported these errors.</description>
+    </item>
+    
   </channel>
 </rss>
