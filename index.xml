@@ -34,6 +34,16 @@ those in the real world. This book is different and explains all the details nee
     </item>
     
     <item>
+      <title>Citing</title>
+      <link>https://jherekhealy.github.io/citing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jherekhealy.github.io/citing/</guid>
+      <description>You are welcome to use the following bibtex code to cite the book
+@book{healy2017applied, title={Applied Quantitative Finance for Equity Derivatives}, author={Healy, Jherek}, year={2017}, publisher={available from Amazon.com and other online stores}, note={ISBN: {1977557872}}, } </description>
+    </item>
+    
+    <item>
       <title>Erratum</title>
       <link>https://jherekhealy.github.io/erratum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
