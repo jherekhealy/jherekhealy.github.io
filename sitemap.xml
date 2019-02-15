@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jherekhealy.github.io/posts/self_publication_amazon_kdp_vs_lulu/</loc>
+    <lastmod>2019-01-03T15:50:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jherekhealy.github.io/posts/applied_quantitative_finance_for_equity_derivatives/</loc>
+    <lastmod>2019-01-03T15:50:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://jherekhealy.github.io/posts/about_the_cover_implied_volatility_fractals/</loc>
     <lastmod>2017-10-26T15:50:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -18,7 +32,7 @@
   
   <url>
     <loc>https://jherekhealy.github.io/</loc>
-    <lastmod>2017-10-26T15:50:22+02:00</lastmod>
+    <lastmod>2019-01-03T15:50:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

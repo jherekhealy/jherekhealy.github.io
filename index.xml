@@ -6,10 +6,32 @@
     <description>Recent content in Applied Quantitative Finance for Equity Derivatives on Jherek Healy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Oct 2017 15:50:22 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jan 2019 15:50:22 +0200</lastBuildDate>
     
 	<atom:link href="https://jherekhealy.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Self-publishing, Amazon KDP vs Lulu.com</title>
+      <link>https://jherekhealy.github.io/posts/self_publication_amazon_kdp_vs_lulu/</link>
+      <pubDate>Thu, 03 Jan 2019 15:50:22 +0200</pubDate>
+      
+      <guid>https://jherekhealy.github.io/posts/self_publication_amazon_kdp_vs_lulu/</guid>
+      <description>Initially, I published my book through the simplest solution, Amazon CreateSpace, now known as Amazon KDP. The experience was overall great. Amazon KDP allows to print the book in the size of our choice. The standard paper quality is good and the cover looks very much like the digitally uploaded picture.
+I however noticed that the second book I ordered had an issue with the binding. Some pages were not glued properly and could easily be detached.</description>
+    </item>
+    
+    <item>
+      <title>What is so special about this book?</title>
+      <link>https://jherekhealy.github.io/posts/applied_quantitative_finance_for_equity_derivatives/</link>
+      <pubDate>Thu, 03 Jan 2019 15:50:22 +0200</pubDate>
+      
+      <guid>https://jherekhealy.github.io/posts/applied_quantitative_finance_for_equity_derivatives/</guid>
+      <description>&lt;p&gt;This site is dedicated to my book &lt;a href=&#34;http://www.lulu.com/shop/jherek-healy/applied-quantitative-finance-for-equity-derivatives-second-edition/hardcover/product-23926086.html&#34;&gt;Applied Quantitative Finance for Equity Derivatives&lt;/a&gt; sold on &lt;a href=&#34;http://www.lulu.com/shop/jherek-healy/applied-quantitative-finance-for-equity-derivatives-second-edition/hardcover/product-23926086.html&#34;&gt;Lulu&lt;/a&gt;. A paperback edition is also available on Amazon (&lt;a href=&#34;https://www.amazon.com/Applied-Quantitative-Finance-Equity-Derivatives/dp/1791546641/&#34;&gt;US&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.co.uk/Applied-Quantitative-Finance-Equity-Derivatives/dp/1791546641/&#34;&gt;UK&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.fr/Applied-Quantitative-Finance-Equity-Derivatives/dp/1791546641/&#34;&gt;France&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.de/Applied-Quantitative-Finance-Equity-Derivatives/dp/1791546641/&#34;&gt;Germany&lt;/a&gt;). The book presents the most significant equity derivatives models used these days.
+It is not a book around esoteric or cutting-edge models, but rather a book on relatively simple and standard models, viewed from the angle of a practitioner. A lot of
+books present models in an abstract manner, often disconnected from how to apply
+those in the real world. This book is different and explains all the details needed for an implementation of the models, at the cost of being relatively succint on the mathematical origins of the various models considered.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>About the cover: implied volatility fractals!</title>
@@ -37,7 +59,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jherekhealy.github.io/erratum/</guid>
-      <description>This document reflects errors that were found in the first edition of the book Applied Quantitative Finance for Equity Derivatives. If you find an error that is not listed here, please send me a note at jherekhealy @ protonmail.com. Special thanks to the readers that reported these errors.</description>
+      <description>This document reflects errors that were found in the first edition of the book Applied Quantitative Finance for Equity Derivatives.
+For the second edition, here is the corresponding erratum.
+If you find an error that is not listed here, please send me a note at jherekhealy @ protonmail.com. Special thanks to the readers that reported these errors.</description>
     </item>
     
   </channel>
