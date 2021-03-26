@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Jherek Healy</title>
@@ -6,10 +6,16 @@
     <description>Recent content in Articles on Jherek Healy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Sep 2017 15:50:22 +0200</lastBuildDate>
-    
-	<atom:link href="https://jherekhealy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 26 Sep 2017 15:50:22 +0200</lastBuildDate><atom:link href="https://jherekhealy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Edition and Code Repository</title>
+      <link>https://jherekhealy.github.io/posts/third_edition_and_code_repository/</link>
+      <pubDate>Fri, 29 Jan 2021 15:50:22 +0200</pubDate>
+      
+      <guid>https://jherekhealy.github.io/posts/third_edition_and_code_repository/</guid>
+      <description>A third edition of the book is now available on Amazon (UK, DE, FR) as paperback and Lulu as hardcover.
+In this third edition, the physical exercise feature is briefly discussed in the first two chapters. The section on how to imply the Black-Scholes volatility has been updated, with the improvements discussed in my blog. More details around the projected successive over-relaxation method for the pricing of American options have been added, as well as the relatively recent policy iteration method, particularly relevant in the case of negative interest rates, in Chapter 3.</description>
+    </item>
     
     <item>
       <title>Self-publishing, Amazon KDP vs Lulu.com</title>
@@ -18,7 +24,7 @@
       
       <guid>https://jherekhealy.github.io/posts/self_publication_amazon_kdp_vs_lulu/</guid>
       <description>Initially, I published my book through the simplest solution, Amazon CreateSpace, now known as Amazon KDP. The experience was overall great. Amazon KDP allows to print the book in the size of our choice. The standard paper quality is good and the cover looks very much like the digitally uploaded picture.
-I however noticed that the second book I ordered had an issue with the binding. Some pages were not glued properly and could easily be detached.</description>
+Some people prefer a hardcover to paperback for durability. Unfortunately, a hardcover publication is not possible with Amazon KDP. After searching on the web and reading various articles about other sites, which permit self-publication of hardcover books, I decided to try Lulu.</description>
     </item>
     
     <item>
