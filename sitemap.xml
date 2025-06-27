@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jherekhealy.github.io/</loc>
-    <lastmod>2023-09-21T15:50:22+02:00</lastmod>
+    <lastmod>2025-01-29T15:50:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jherekhealy.github.io/posts/fifth_edition_ebook/</loc>
+    <lastmod>2025-01-29T15:50:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
