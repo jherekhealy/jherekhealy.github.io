@@ -17,6 +17,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://jherekhealy.github.io/posts/applied_quantitative_finance_for_equity_derivatives/</loc>
+    <lastmod>2023-02-21T17:50:22+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://jherekhealy.github.io/posts/third_edition_and_code_repository/</loc>
     <lastmod>2021-01-29T15:50:22+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -50,10 +55,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://jherekhealy.github.io/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jherekhealy.github.io/posts/applied_quantitative_finance_for_equity_derivatives/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
