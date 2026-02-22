@@ -3,16 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jherekhealy.github.io/</loc>
-    <lastmod>2017-09-26T15:50:22+00:00</lastmod>
+    <lastmod>2025-01-29T17:50:22+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jherekhealy.github.io/posts/fifth_edition_ebook/</loc>
+    <lastmod>2025-01-29T17:50:22+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jherekhealy.github.io/posts/fourth_edition_in_colors/</loc>
+    <lastmod>2023-09-21T15:50:22+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jherekhealy.github.io/posts/third_edition_and_code_repository/</loc>
+    <lastmod>2021-01-29T15:50:22+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jherekhealy.github.io/posts/self_publication_amazon_kdp_vs_lulu/</loc>
+    <lastmod>2019-01-03T15:50:22+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jherekhealy.github.io/posts/about_the_cover_implied_volatility_fractals/</loc>
+    <lastmod>2017-10-26T15:50:22+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://jherekhealy.github.io/posts/</loc>
     <lastmod>2017-09-26T15:50:22+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jherekhealy.github.io/posts/about_the_cover_implied_volatility_fractals/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -28,23 +49,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jherekhealy.github.io/posts/fifth_edition_ebook/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jherekhealy.github.io/posts/fourth_edition_in_colors/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jherekhealy.github.io/posts/self_publication_amazon_kdp_vs_lulu/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://jherekhealy.github.io/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jherekhealy.github.io/posts/third_edition_and_code_repository/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

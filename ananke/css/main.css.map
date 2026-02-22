@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/cian/Dev/jherekhealy",
+	"sourceRoot": "/home/fly/Dev/jherekhealy",
 	"sources": [
 		"ananke/css/main.css"
 	],
